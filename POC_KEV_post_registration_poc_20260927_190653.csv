@@ -1,0 +1,263 @@
+﻿cveId,vendorProject,product,knownRansomware,kevDateAdded,firstPocDate,daysKevToFirstPoc,pocCount,firstPocRepo,firstPocUrl,latestEpss
+CVE-2026-67279,"MikroTik","RouterOS",Unknown,2026-09-25,2026-09-26,1,1,"HackSpeak/CVE-2026-67279","https://github.com/HackSpeak/CVE-2026-67279",0.01027
+CVE-2026-94127,"F5","BIG-IP APM",Unknown,2026-09-22,2026-09-23,1,1,"FurkanKAYAPINAR/CVE-2026-94127","https://github.com/FurkanKAYAPINAR/CVE-2026-94127",0.02226
+CVE-2026-76460,"Cisco","Identity Services Engine",Unknown,2026-09-16,2026-09-17,1,1,"S3v3n-JG/CVE-2026-76460","https://github.com/S3v3n-JG/CVE-2026-76460",0.14026
+CVE-2026-76461,"Cisco","Secure Email Gateway",Unknown,2026-09-14,2026-09-15,1,3,"HORKimhab/CVE-2026-76461","https://github.com/HORKimhab/CVE-2026-76461",0.28269
+CVE-2012-0754,"Adobe","Flash Player",Unknown,2022-06-08,2026-09-13,1558,1,"mbeweoo/flash-exploit-defense-system","https://github.com/mbeweoo/flash-exploit-defense-system",0.91244
+CVE-2021-28664,"Arm","Mali Graphics Processing Unit (GPU)",Unknown,2021-11-03,2026-09-12,1774,1,"woaphone/CVE-2021-28664-PoC","https://github.com/woaphone/CVE-2021-28664-PoC",0.05407
+CVE-2021-35394,"Realtek","Jungle Software Development Kit (SDK)",Unknown,2021-12-10,2026-09-10,1735,1,"graphworlok/cve-2021-35394-ecosystem","https://github.com/graphworlok/cve-2021-35394-ecosystem",0.99861
+CVE-2020-2021,"Palo Alto Networks","PAN-OS",Known,2022-03-25,2026-09-06,1626,1,"mngunibanda1-prog/Jozini-network-scanner","https://github.com/mngunibanda1-prog/Jozini-network-scanner",0.04362
+CVE-2020-5741,"Plex","Media Server",Unknown,2023-03-10,2026-09-04,1274,1,"HORKimhab/CVE-2025-34158-CVE-2020-5741","https://github.com/HORKimhab/CVE-2025-34158-CVE-2020-5741",0.72936
+CVE-2026-59822,"BerriAI","LiteLLM",Unknown,2026-09-02,2026-09-03,1,1,"HORKimhab/CVE-2026-59822","https://github.com/HORKimhab/CVE-2026-59822",0.00836
+CVE-2026-83548,"SonicWall","SMA1000 Appliances",Unknown,2026-09-02,2026-09-03,1,3,"xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis","https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis",0.08757
+CVE-2026-66384,"JFrog","Artifactory",Unknown,2026-08-27,2026-08-28,1,1,"HORKimhab/CVE-2026-66384","https://github.com/HORKimhab/CVE-2026-66384",0.00665
+CVE-2015-3246,"Red Hat","Libuser",Unknown,2026-08-26,2026-08-27,1,1,"HORKimhab/CVE-2015-3246","https://github.com/HORKimhab/CVE-2015-3246",0.08799
+CVE-2015-5287,"Red Hat","Automatic Bug Reporting Tool",Unknown,2026-08-26,2026-08-27,1,1,"HORKimhab/CVE-2015-5287","https://github.com/HORKimhab/CVE-2015-5287",0.04962
+CVE-2026-72530,"TrueConf","Server",Unknown,2026-08-20,2026-08-26,6,1,"fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-","https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-",0.01686
+CVE-2020-13671,"Drupal","Drupal core",Unknown,2022-01-18,2026-08-22,1677,2,"Dungsocool/CVE-2020-13671-old","https://github.com/Dungsocool/CVE-2020-13671-old",0.3535
+CVE-2024-8068,"Citrix","Session Recording",Unknown,2025-08-25,2026-08-19,359,1,"HORKimhab/CVE-2024-8068-CVE-2024-8069","https://github.com/HORKimhab/CVE-2024-8068-CVE-2024-8069",0.03481
+CVE-2018-8611,"Microsoft","Windows",Unknown,2022-05-24,2026-08-17,1546,1,"ahm3dgg/cve-2018-8611","https://github.com/ahm3dgg/cve-2018-8611",0.04196
+CVE-2024-40891,"Zyxel","DSL CPE Devices",Unknown,2025-02-11,2026-08-14,549,1,"Danyw24/zyxel-p870hn-hardware-hacking","https://github.com/Danyw24/zyxel-p870hn-hardware-hacking",0.21536
+CVE-2026-68820,"Microsoft","Windows Ancillary Function Driver for WinSock ",Unknown,2026-08-11,2026-08-13,2,4,"HORKimhab/CVE-2026-68820","https://github.com/HORKimhab/CVE-2026-68820",0.00332
+CVE-2026-72898,"Metabase","Metabase",Unknown,2026-08-11,2026-08-12,1,9,"0xBlackash/CVE-2026-72898","https://github.com/0xBlackash/CVE-2026-72898",0.19048
+CVE-2026-34910,"Ubiquiti","UniFi OS",Unknown,2026-06-23,2026-08-09,47,2,"Boreas37/CVE-2026-34910-PoC","https://github.com/Boreas37/CVE-2026-34910-PoC",0.45768
+CVE-2026-18556,"N-able","N-central",Unknown,2026-08-04,2026-08-06,2,1,"CreamyG31337/ncentral-compromise-ioc-triage","https://github.com/CreamyG31337/ncentral-compromise-ioc-triage",0.07882
+CVE-2026-18577,"N-able","N-central",Unknown,2026-08-03,2026-08-04,1,2,"HORKimhab/CVE-2026-18577","https://github.com/HORKimhab/CVE-2026-18577",0.14622
+CVE-2021-22681,"Rockwell","Multiple Products",Unknown,2026-03-05,2026-08-01,149,1,"pcrosby-1990/cip-security-poc","https://github.com/pcrosby-1990/cip-security-poc",0.6363
+CVE-2024-1708,"ConnectWise","ScreenConnect",Known,2026-04-28,2026-07-24,87,1,"razureink/cve-2024-1708-connectwise_rce_reproduction","https://github.com/razureink/cve-2024-1708-connectwise_rce_reproduction",0.95436
+CVE-2025-24472,"Fortinet","FortiOS and FortiProxy",Known,2025-03-18,2026-07-23,492,1,"razureink/cve-2025-24472-fortinet_authbypass_reproduction","https://github.com/razureink/cve-2025-24472-fortinet_authbypass_reproduction",0.07235
+CVE-2024-53104,"Linux","Kernel",Unknown,2025-02-05,2026-07-17,527,1,"runtimeverification/kernel-c-to-rust-spike","https://github.com/runtimeverification/kernel-c-to-rust-spike",0.03395
+CVE-2026-56164,"Microsoft","SharePoint Server",Unknown,2026-07-14,2026-07-15,1,2,"sentinel-aidefense/CVE-2026-56164-EXP","https://github.com/sentinel-aidefense/CVE-2026-56164-EXP",0.01011
+CVE-2026-15409,"SonicWall","SMA1000 Appliances",Unknown,2026-07-14,2026-07-15,1,6,"HORKimhab/CVE-2026-15409","https://github.com/HORKimhab/CVE-2026-15409",0.06795
+CVE-2026-15410,"SonicWall","SMA1000 Appliances",Unknown,2026-07-14,2026-07-15,1,1,"HORKimhab/CVE-2026-15410","https://github.com/HORKimhab/CVE-2026-15410",0.11791
+CVE-2019-1003030,"Jenkins","Matrix Project Plugin",Unknown,2022-03-25,2026-07-12,1570,1,"cyberbelly/PoC-CVE-2019-1003030","https://github.com/cyberbelly/PoC-CVE-2019-1003030",0.96868
+CVE-2026-56291,"Balbooa","Forms",Unknown,2026-07-10,2026-07-11,1,4,"shinthink/CVE-2026-56291","https://github.com/shinthink/CVE-2026-56291",0.14854
+CVE-2026-48282,"Adobe","ColdFusion",Unknown,2026-07-07,2026-07-08,1,1,"g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection","https://github.com/g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection",0.42388
+CVE-2026-48558,"SimpleHelp ","SimpleHelp",Unknown,2026-06-29,2026-07-02,3,1,"J4ck3LSyN-Gen2/CVE-2026-48558","https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558",0.05719
+CVE-2026-45498,"Microsoft","Defender",Unknown,2026-05-20,2026-07-02,43,1,"salihuahmad105-creator/Vulnerability-scanner","https://github.com/salihuahmad105-creator/Vulnerability-scanner",0.01267
+CVE-2021-27877,"Veritas","Backup Exec Agent",Known,2023-04-07,2026-07-02,1182,1,"yashswarup12/CVE-2021-27877-PoC","https://github.com/yashswarup12/CVE-2021-27877-PoC",0.6491
+CVE-2015-1187,"D-Link and TRENDnet","Multiple Devices",Unknown,2022-03-25,2026-06-30,1558,1,"Flanbox/cve-2015-1187-dir820l-reproduction","https://github.com/Flanbox/cve-2015-1187-dir820l-reproduction",0.82863
+CVE-2025-67038,"Lantronix","EDS5000",Unknown,2026-06-23,2026-06-25,2,1,"HORKimhab/CVE-2025-67038","https://github.com/HORKimhab/CVE-2025-67038",0.1926
+CVE-2021-27876,"Veritas","Backup Exec Agent",Known,2023-04-07,2026-06-18,1168,2,"wingerbijay/CVE-2021-27876","https://github.com/wingerbijay/CVE-2021-27876",0.13518
+CVE-2026-54420,"LiteSpeed","cPanel Plugin",Unknown,2026-06-15,2026-06-16,1,2,"HORKimhab/CVE-2026-54420","https://github.com/HORKimhab/CVE-2026-54420",0.00806
+CVE-2026-20262,"Cisco","Catalyst SD-WAN Manager",Unknown,2026-06-15,2026-06-16,1,2,"HORKimhab/CVE-2026-20262","https://github.com/HORKimhab/CVE-2026-20262",0.28171
+CVE-2026-11645,"Google","Chromium V8",Unknown,2026-06-09,2026-06-10,1,2,"fevar54/CVE-2026-11645-Out-of-bounds-Read-Write","https://github.com/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write",0.0219
+CVE-2026-7473,"Arista","Extensible Operating System",Unknown,2026-06-09,2026-06-10,1,1,"fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass","https://github.com/fevar54/CVE-2026-7473---Arista-EOS-Tunnel-Decapsulation-Bypass",0.00649
+CVE-2026-28318,"SolarWinds","Serv-U",Unknown,2026-06-05,2026-06-10,5,2,"EaEa0001/servu-cve-2026-28318-poc","https://github.com/EaEa0001/servu-cve-2026-28318-poc",0.01942
+CVE-2026-45247,"Mirasvit","Mirasvit Full Page Cache Warmer",Unknown,2026-06-03,2026-06-04,1,2,"HORKimhab/CVE-2026-45247","https://github.com/HORKimhab/CVE-2026-45247",0.02085
+CVE-2025-48595,"Android","Framework",Unknown,2026-06-02,2026-06-03,1,3,"HORKimhab/CVE-2025-48595","https://github.com/HORKimhab/CVE-2025-48595",0.01714
+CVE-2025-40536,"SolarWinds","Web Help Desk",Unknown,2026-02-12,2026-06-01,109,1,"victoriaalicex/CVE-2025-40536-Analysis","https://github.com/victoriaalicex/CVE-2025-40536-Analysis",0.73562
+CVE-2023-26083,"Arm","Mali Graphics Processing Unit (GPU)",Unknown,2023-04-07,2026-05-28,1147,1,"Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC","https://github.com/Noverisp3/CVE-2023-26083-Mali-InfoLeak-PoC",0.01218
+CVE-2026-34926,"Trend Micro","Apex One",Unknown,2026-05-21,2026-05-22,1,1,"HORKimhab/CVE-2026-34926","https://github.com/HORKimhab/CVE-2026-34926",0.00538
+CVE-2026-41091,"Microsoft","Defender",Unknown,2026-05-20,2026-05-22,2,4,"0xBlackash/CVE-2026-41091","https://github.com/0xBlackash/CVE-2026-41091",0.00443
+CVE-2025-20362,"Cisco","Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense",Unknown,2025-09-25,2026-05-17,234,1,"curtishoughton/CVE-2025-20362-Cisco-Scanner","https://github.com/curtishoughton/CVE-2025-20362-Cisco-Scanner",0.87085
+CVE-2025-20333,"Cisco","Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense",Unknown,2025-09-25,2026-05-17,234,2,"curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner","https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner",0.70651
+CVE-2012-3152,"Oracle","Fusion Middleware",Unknown,2021-11-03,2026-05-16,1655,1,"abq0/rwsploit","https://github.com/abq0/rwsploit",0.98793
+CVE-2026-20182,"Cisco","Catalyst SD-WAN",Unknown,2026-05-14,2026-05-15,1,4,"fangbarristerbar/CVE-2026-20182-POC","https://github.com/fangbarristerbar/CVE-2026-20182-POC",0.91522
+CVE-2025-4632,"Samsung","MagicINFO 9 Server",Unknown,2025-05-22,2026-05-07,350,1,"digitalsurgn/CVE-2025-4632_POC","https://github.com/digitalsurgn/CVE-2025-4632_POC",0.24295
+CVE-2026-21514,"Microsoft","Office",Unknown,2026-02-10,2026-05-04,83,1,"ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510","https://github.com/ChaitanyaHaritash/CVE-2026-21514_CVE-2026-21510",0.01544
+CVE-2026-32202,"Microsoft","Windows",Unknown,2026-04-28,2026-04-30,2,1,"virus-or-not/CVE-2026-32202","https://github.com/virus-or-not/CVE-2026-32202",0.04902
+CVE-2025-55177,"Meta Platforms","WhatsApp",Unknown,2025-09-02,2026-04-25,235,1,"danielw98/zero-click-exploit-analysis","https://github.com/danielw98/zero-click-exploit-analysis",0.04304
+CVE-2026-32201,"Microsoft","SharePoint Server",Unknown,2026-04-14,2026-04-23,9,1,"B1tBit/CVE-2026-32201-exploit","https://github.com/B1tBit/CVE-2026-32201-exploit",0.00983
+CVE-2021-25337,"Samsung","Mobile Devices",Unknown,2022-11-08,2026-04-17,1256,1,"CrisZalSa/JustALampNothingElse","https://github.com/CrisZalSa/JustALampNothingElse",0.02807
+CVE-2008-2992,"Adobe","Acrobat and Reader",Known,2022-03-03,2026-04-15,1504,1,"Jonas-Holmberg/CVE-2008-2992","https://github.com/Jonas-Holmberg/CVE-2008-2992",0.98482
+CVE-2026-34621,"Adobe","Acrobat and Reader",Unknown,2026-04-13,2026-04-14,1,2,"eduardorossi84/CVE-2026-34621-POC","https://github.com/eduardorossi84/CVE-2026-34621-POC",0.02183
+CVE-2026-3502,"TrueConf","Client",Unknown,2026-04-02,2026-04-05,3,2,"fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC","https://github.com/fevar54/CVE-2026-3502---TrueConf-Client-Update-Hijacking-PoC",0.00329
+CVE-2026-5281,"Google","Dawn",Unknown,2026-04-01,2026-04-02,1,2,"umair-aziz025/CVE-2026-5281-Research-Toolkit","https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit",0.00703
+CVE-2021-21220,"Google","Chromium V8",Unknown,2021-11-03,2026-04-01,1610,1,"JacobTaylor3/Docker-Lab-Milestone-3","https://github.com/JacobTaylor3/Docker-Lab-Milestone-3",0.70435
+CVE-2025-31277,"Apple","Multiple Products",Unknown,2026-03-20,2026-03-27,7,1,"stationedK-06/DarkSword_analysis","https://github.com/stationedK-06/DarkSword_analysis",0.01631
+CVE-2018-13374,"Fortinet","FortiOS and FortiADC",Known,2022-09-08,2026-03-27,1296,1,"Justjeff211/conti-ransomware-writeup","https://github.com/Justjeff211/conti-ransomware-writeup",0.37832
+CVE-2024-30051,"Microsoft","DWM Core Library",Known,2024-05-14,2026-03-25,680,1,"devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis","https://github.com/devianntsec/CVE-2024-30051-DWMHeapOverflow-Masters-Thesis",0.05641
+CVE-2019-10068,"Kentico","Xperience",Unknown,2022-03-25,2026-03-11,1447,1,"cianananan/CVE-2019-10068-PoC","https://github.com/cianananan/CVE-2019-10068-PoC",0.95074
+CVE-2024-23222,"Apple","Multiple Products",Unknown,2024-01-23,2026-03-10,777,4,"Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated","https://github.com/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated",0.10593
+CVE-2026-21385,"Qualcomm","Multiple Chipsets",Unknown,2026-03-03,2026-03-04,1,2,"automate-it0/qualcomm-vulnerability-scanner","https://github.com/automate-it0/qualcomm-vulnerability-scanner",0.01243
+CVE-2026-20127,"Cisco","Catalyst SD-WAN Controller and Manager",Unknown,2026-02-25,2026-03-04,7,6,"randeepajayasekara/CVE-2026-20127","https://github.com/randeepajayasekara/CVE-2026-20127",0.88476
+CVE-2026-2441,"Google","Chromium",Unknown,2026-02-17,2026-03-03,14,1,"fartlover37/CVE-2026-2441-PoC","https://github.com/fartlover37/CVE-2026-2441-PoC",0.55101
+CVE-2022-20775,"Cisco","SD-WAN",Unknown,2026-02-25,2026-02-27,2,1,"bluefalconink/cisa-ed-26-03-tracker","https://github.com/bluefalconink/cisa-ed-26-03-tracker",0.12475
+CVE-2022-24521,"Microsoft","Windows",Known,2022-04-13,2026-02-19,1408,1,"uname1able/CVE-2022-24521","https://github.com/uname1able/CVE-2022-24521",0.07134
+CVE-2026-20700,"Apple","Multiple Products",Unknown,2026-02-12,2026-02-18,6,1,"sundenovak/CVE-2026-20700-An-analysis-WIP","https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP",0.01343
+CVE-2023-42824,"Apple","iOS and iPadOS",Unknown,2023-10-05,2026-02-14,863,1,"619555798/cve-2023-42824","https://github.com/619555798/cve-2023-42824",0.00935
+CVE-2026-21510,"Microsoft","Windows",Unknown,2026-02-10,2026-02-12,2,2,"andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass","https://github.com/andreassudo/CVE-2026-21510-CVSS-8.8-Important-Windows-Shell-security-feature-bypass",0.24226
+CVE-2026-21533,"Microsoft","Windows",Unknown,2026-02-10,2026-02-11,1,2,"Pairs34/RDPVulnarableCheck","https://github.com/Pairs34/RDPVulnarableCheck",0.04125
+CVE-2024-23296,"Apple","Multiple Products",Unknown,2024-03-06,2026-02-08,704,1,"SimoesCTT/lCTT-Apple-Silicon--Resonance-Vulnerability-CVE-2024-23296","https://github.com/SimoesCTT/lCTT-Apple-Silicon--Resonance-Vulnerability-CVE-2024-23296",0.01411
+CVE-2023-33107,"Qualcomm","Multiple Chipsets",Unknown,2023-12-05,2026-02-05,793,2,"keto0422/CVE-2023-33107","https://github.com/keto0422/CVE-2023-33107",0.00892
+CVE-2026-1281,"Ivanti","Endpoint Manager Mobile (EPMM)",Unknown,2026-01-29,2026-02-01,3,3,"Ashwesker/Ashwesker-CVE-2026-1281","https://github.com/Ashwesker/Ashwesker-CVE-2026-1281",0.98688
+CVE-2026-24858,"Fortinet","Multiple Products",Unknown,2026-01-27,2026-01-28,1,6,"m0d0ri205/CVE-2026-24858","https://github.com/m0d0ri205/CVE-2026-24858",0.85796
+CVE-2026-21509,"Microsoft","Office",Unknown,2026-01-26,2026-01-27,1,15,"Ashwesker/Ashwesker-CVE-2026-21509","https://github.com/Ashwesker/Ashwesker-CVE-2026-21509",0.72872
+CVE-2026-20045,"Cisco","Unified Communications Manager",Unknown,2026-01-21,2026-01-22,1,3,"Ashwesker/Ashwesker-CVE-2026-20045","https://github.com/Ashwesker/Ashwesker-CVE-2026-20045",0.04541
+CVE-2017-6742,"Cisco","IOS and IOS XE Software",Unknown,2023-04-19,2026-01-17,1004,1,"sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction","https://github.com/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction",0.21424
+CVE-2026-20805,"Microsoft","Windows",Unknown,2026-01-13,2026-01-14,1,6,"fevar54/CVE-2026-20805-POC","https://github.com/fevar54/CVE-2026-20805-POC",0.07203
+CVE-2025-43529,"Apple","Multiple Products",Unknown,2025-12-15,2026-01-06,22,10,"jir4vv1t/CVE-2025-43529","https://github.com/jir4vv1t/CVE-2025-43529",0.08763
+CVE-2025-14611,"Gladinet","CentreStack and Triofox",Unknown,2025-12-15,2025-12-29,14,1,"pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit","https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit",0.53302
+CVE-2025-40602,"SonicWall","SMA1000 appliance",Unknown,2025-12-17,2025-12-18,1,2,"rxerium/CVE-2025-40602","https://github.com/rxerium/CVE-2025-40602",0.02756
+CVE-2025-20393,"Cisco","Multiple Products",Unknown,2025-12-17,2025-12-18,1,7,"thesystemowner/CVE-2025-20393-POC","https://github.com/thesystemowner/CVE-2025-20393-POC",0.32392
+CVE-2025-14174,"Google","Chromium",Unknown,2025-12-12,2025-12-14,2,4,"Terrasue/CVE-2025-14174-Exploit","https://github.com/Terrasue/CVE-2025-14174-Exploit",0.22327
+CVE-2025-62221,"Microsoft","Windows",Unknown,2025-12-09,2025-12-10,1,2,"JeanKauffman1305/CVE-2025-62221-Exploit-","https://github.com/JeanKauffman1305/CVE-2025-62221-Exploit-",0.02505
+CVE-2025-66644,"Array Networks ","ArrayOS AG",Unknown,2025-12-08,2025-12-09,1,1,"Ashwesker/Blackash-CVE-2025-66644","https://github.com/Ashwesker/Blackash-CVE-2025-66644",0.03415
+CVE-2021-22941,"Citrix","ShareFile",Known,2022-03-25,2025-12-02,1348,1,"pratikjojode/citrix-cve-2021-22941-lab","https://github.com/pratikjojode/citrix-cve-2021-22941-lab",0.53585
+CVE-2019-15949,"Nagios","Nagios XI",Unknown,2021-11-03,2025-11-26,1484,2,"0xla1n/Nagios-CVE-2019-15949-RCE-Poc","https://github.com/0xla1n/Nagios-CVE-2019-15949-RCE-Poc",0.77039
+CVE-2025-26633,"Microsoft","Windows",Known,2025-03-11,2025-11-22,256,1,"mbanyamer/MSC-EvilTwin-Local-Privilege-Escalation","https://github.com/mbanyamer/MSC-EvilTwin-Local-Privilege-Escalation",0.30391
+CVE-2025-9242,"WatchGuard","Firebox",Unknown,2025-11-12,2025-11-21,9,4,"B1ack4sh/Blackash-CVE-2025-9242","https://github.com/B1ack4sh/Blackash-CVE-2025-9242",0.913
+CVE-2025-58034,"Fortinet","FortiWeb",Unknown,2025-11-18,2025-11-19,1,1,"B1ack4sh/Blackash-CVE-2025-58034","https://github.com/B1ack4sh/Blackash-CVE-2025-58034",0.5558
+CVE-2025-62215,"Microsoft","Windows",Unknown,2025-11-12,2025-11-14,2,6,"dexterm300/CVE-2025-62215-exploit-poc","https://github.com/dexterm300/CVE-2025-62215-exploit-poc",0.05985
+CVE-2025-20337,"Cisco","Identity Services Engine",Unknown,2025-07-28,2025-11-13,108,1,"B1ack4sh/Blackash-CVE-2025-20337","https://github.com/B1ack4sh/Blackash-CVE-2025-20337",0.67825
+CVE-2025-61932,"Motex","LANSCOPE Endpoint Manager",Unknown,2025-10-22,2025-11-11,20,1,"godfatherofexps/CVE-2025-61932-PoC","https://github.com/godfatherofexps/CVE-2025-61932-PoC",0.02768
+CVE-2023-7024,"Google","Chromium WebRTC",Unknown,2024-01-02,2025-11-07,675,2,"aka76bm/chrome-emergency-update","https://github.com/aka76bm/chrome-emergency-update",0.06671
+CVE-2021-31955,"Microsoft","Windows",Unknown,2021-11-03,2025-10-29,1456,1,"ApexPredator-InfoSec/forti_shield","https://github.com/ApexPredator-InfoSec/forti_shield",0.81107
+CVE-2020-10987,"Tenda","AC1900 Router AC15 Model",Unknown,2021-11-03,2025-10-23,1450,1,"Jaden-Bowers/Tenda-Router-VR-and-Exploit","https://github.com/Jaden-Bowers/Tenda-Router-VR-and-Exploit",0.7981
+CVE-2010-2861,"Adobe","ColdFusion",Known,2022-03-25,2025-10-22,1307,1,"greysneakthief/14641-v2","https://github.com/greysneakthief/14641-v2",0.99721
+CVE-2019-5591,"Fortinet","FortiOS",Unknown,2021-11-03,2025-10-17,1444,1,"ayewo/fortios-ldap-mitm-poc-CVE-2019-5591","https://github.com/ayewo/fortios-ldap-mitm-poc-CVE-2019-5591",0.18422
+CVE-2025-24990,"Microsoft","Windows",Unknown,2025-10-14,2025-10-16,2,2,"moiz-2x/CVE-2025-24990_POC","https://github.com/moiz-2x/CVE-2025-24990_POC",0.06369
+CVE-2022-1364,"Google","Chromium V8",Unknown,2022-04-15,2025-10-16,1280,1,"interruptlabs/uc_browser_poc_CVE-2022-1364","https://github.com/interruptlabs/uc_browser_poc_CVE-2022-1364",0.1372
+CVE-2024-36971,"Android","Kernel",Unknown,2024-08-07,2025-10-14,433,1,"Kronk-imp/CVE-2024-36971","https://github.com/Kronk-imp/CVE-2024-36971",0.02701
+CVE-2010-2883,"Adobe","Acrobat and Reader",Unknown,2022-06-08,2025-09-22,1202,1,"avielzecharia/CVE-2010-2883","https://github.com/avielzecharia/CVE-2010-2883",0.81376
+CVE-2025-48543,"Android","Runtime",Unknown,2025-09-04,2025-09-14,10,1,"gamesarchive/CVE-2025-48543","https://github.com/gamesarchive/CVE-2025-48543",0.00543
+CVE-2025-53690,"Sitecore","Multiple Products",Unknown,2025-09-04,2025-09-05,1,4,"rxerium/CVE-2025-53690","https://github.com/rxerium/CVE-2025-53690",0.51094
+CVE-2025-32709,"Microsoft","Windows",Unknown,2025-05-13,2025-09-04,114,1,"AdnanSiyat/How-to-Patch-CVE-2025-32709","https://github.com/AdnanSiyat/How-to-Patch-CVE-2025-32709",0.0214
+CVE-2024-39717,"Versa","Director",Unknown,2024-08-23,2025-09-03,376,1,"ahays248/VT_Viz","https://github.com/ahays248/VT_Viz",0.04006
+CVE-2025-2776,"SysAid","SysAid On-Prem",Unknown,2025-07-22,2025-08-31,40,1,"mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack","https://github.com/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack",0.64397
+CVE-2025-7775,"Citrix","NetScaler",Unknown,2025-08-26,2025-08-28,2,3,"mezo0x4/CVE-2025-7775","https://github.com/mezo0x4/CVE-2025-7775",0.19631
+CVE-2018-19323,"GIGABYTE","Multiple Products",Known,2022-10-24,2025-08-27,1038,1,"blueisbeautiful/CVE-2018-19323","https://github.com/blueisbeautiful/CVE-2018-19323",0.07828
+CVE-2025-43300,"Apple","iOS, iPadOS, and macOS",Unknown,2025-08-21,2025-08-22,1,7,"XiaomingX/CVE-2025-43300-exp","https://github.com/XiaomingX/CVE-2025-43300-exp",0.21994
+CVE-2025-8875,"N-able","N-Central",Unknown,2025-08-13,2025-08-17,4,1,"rxerium/CVE-2025-8875-CVE-2025-8876","https://github.com/rxerium/CVE-2025-8875-CVE-2025-8876",0.01899
+CVE-2017-18362,"Kaseya","Virtual System/Server Administrator (VSA)",Known,2022-05-24,2025-08-14,1178,1,"yawningmoney/CVE-2017-18362-LAB","https://github.com/yawningmoney/CVE-2017-18362-LAB",0.8682
+CVE-2025-29824,"Microsoft","Windows",Known,2025-04-08,2025-07-30,113,2,"AfanPan/CVE-2025-29824-Exploit","https://github.com/AfanPan/CVE-2025-29824-Exploit",0.13904
+CVE-2025-54309,"CrushFTP","CrushFTP",Unknown,2025-07-22,2025-07-26,4,4,"issamjr/CVE-2025-54309-EXPLOIT","https://github.com/issamjr/CVE-2025-54309-EXPLOIT",0.94905
+CVE-2024-38112,"Microsoft","Windows",Unknown,2024-07-09,2025-07-26,382,1,"BunBunCodes/CPSC253Project","https://github.com/BunBunCodes/CPSC253Project",0.84225
+CVE-2017-12637,"SAP","NetWeaver",Unknown,2025-03-19,2025-07-24,127,1,"abrewer251/CVE-2017-12637_SAP-NetWeaver-URL-Traversal","https://github.com/abrewer251/CVE-2017-12637_SAP-NetWeaver-URL-Traversal",0.95111
+CVE-2025-27363,"FreeType","FreeType",Unknown,2025-05-06,2025-07-23,78,1,"tin-z/CVE-2025-27363","https://github.com/tin-z/CVE-2025-27363",0.27775
+CVE-2025-24201,"Apple","Multiple Products",Unknown,2025-03-13,2025-07-11,120,2,"The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-","https://github.com/The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-",0.03773
+CVE-2025-6554,"Google","Chromium V8",Unknown,2025-07-02,2025-07-10,8,5,"9Insomnie/CVE-2025-6554","https://github.com/9Insomnie/CVE-2025-6554",0.12564
+CVE-2024-54085,"AMI","MegaRAC SPx",Unknown,2025-06-25,2025-06-30,5,1,"Mr-Zapi/CVE-2024-54085","https://github.com/Mr-Zapi/CVE-2024-54085",0.60747
+CVE-2023-33538,"TP-Link","Multiple Routers",Unknown,2025-06-16,2025-06-23,7,3,"explxx/CVE-2023-33538","https://github.com/explxx/CVE-2023-33538",0.41606
+CVE-2025-21479,"Qualcomm","Multiple Chipsets",Unknown,2025-06-03,2025-06-20,17,11,"zhuowei/cheese","https://github.com/zhuowei/cheese",0.00843
+CVE-2017-8291,"Artifex","Ghostscript",Unknown,2022-05-24,2025-06-13,1116,1,"hkcfs/PIL-CVE-2017-8291","https://github.com/hkcfs/PIL-CVE-2017-8291",0.96968
+CVE-2025-33053,"Microsoft","Windows",Unknown,2025-06-10,2025-06-12,2,6,"DevBuiHieu/CVE-2025-33053-Proof-Of-Concept","https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept",0.87015
+CVE-2025-22224,"VMware","ESXi and Workstation",Unknown,2025-03-04,2025-06-03,91,1,"takeshirisulu/CVE-2025-22224","https://github.com/takeshirisulu/CVE-2025-22224",0.01561
+CVE-2025-30397,"Microsoft","Windows",Unknown,2025-05-13,2025-05-31,18,2,"mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-","https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",0.26835
+CVE-2024-9463,"Palo Alto Networks","Expedition",Unknown,2024-11-14,2025-05-23,190,1,"momo1239/CVE-2024-9463-Proof-of-Concept","https://github.com/momo1239/CVE-2024-9463-Proof-of-Concept",0.98546
+CVE-2025-32756,"Fortinet","Multiple Products",Unknown,2025-05-14,2025-05-18,4,4,"exfil0/CVE-2025-32756-POC","https://github.com/exfil0/CVE-2025-32756-POC",0.29812
+CVE-2025-30406,"Gladinet","CentreStack",Unknown,2025-04-08,2025-04-24,16,4,"W01fh4cker/CVE-2025-30406","https://github.com/W01fh4cker/CVE-2025-30406",0.94343
+CVE-2025-31200,"Apple","Multiple Products",Unknown,2025-04-17,2025-04-21,4,4,"zhuowei/apple-positional-audio-codec-invalid-header","https://github.com/zhuowei/apple-positional-audio-codec-invalid-header",0.18751
+CVE-2020-35730,"Roundcube","Roundcube Webmail",Unknown,2023-06-22,2025-04-20,668,1,"skyllpro/CVE-2021-44026-PoC","https://github.com/skyllpro/CVE-2021-44026-PoC",0.32688
+CVE-2025-31161,"CrushFTP","CrushFTP",Known,2025-04-07,2025-04-08,1,16,"Immersive-Labs-Sec/CVE-2025-31161","https://github.com/Immersive-Labs-Sec/CVE-2025-31161",0.99976
+CVE-2025-22457,"Ivanti","Connect Secure, Policy Secure, and ZTA Gateways",Known,2025-04-04,2025-04-08,4,7,"Vinylrider/ivantiunlocker","https://github.com/Vinylrider/ivantiunlocker",0.99981
+CVE-2024-44308,"Apple","Multiple Products",Unknown,2024-11-21,2025-04-08,138,1,"migopp/cve-2024-44308","https://github.com/migopp/cve-2024-44308",0.10075
+CVE-2025-2783,"Google","Chromium Mojo",Unknown,2025-03-27,2025-04-06,10,5,"Alchemist3dot14/CVE-2025-2783","https://github.com/Alchemist3dot14/CVE-2025-2783",0.09238
+CVE-2025-24985,"Microsoft","Windows",Unknown,2025-03-11,2025-04-02,22,1,"airbus-cert/cve-2025-24985","https://github.com/airbus-cert/cve-2025-24985",0.03846
+CVE-2022-23134,"Zabbix","Frontend",Unknown,2022-02-22,2025-03-23,1125,1,"TheN00bBuilder/cve-2022-23134-poc-and-writeup","https://github.com/TheN00bBuilder/cve-2022-23134-poc-and-writeup",0.9526
+CVE-2023-41991,"Apple","Multiple Products",Unknown,2023-09-25,2025-03-18,540,1,"dmytrozykov/appsign","https://github.com/dmytrozykov/appsign",0.1338
+CVE-2024-38014,"Microsoft","Windows",Unknown,2024-09-10,2025-03-06,177,2,"Anurag-Chevendra/CVE-2024-38014","https://github.com/Anurag-Chevendra/CVE-2024-38014",0.06263
+CVE-2023-32434,"Apple","Multiple Products",Unknown,2023-06-23,2025-03-02,618,2,"alfiecg24/Trigon","https://github.com/alfiecg24/Trigon",0.51517
+CVE-2025-21333,"Microsoft","Windows",Unknown,2025-01-14,2025-02-27,44,10,"MrAle98/CVE-2025-21333-POC","https://github.com/MrAle98/CVE-2025-21333-POC",0.09988
+CVE-2025-24085,"Apple","Multiple Products",Unknown,2025-01-29,2025-01-30,1,5,"clidancc1/CVE-2025-24085","https://github.com/clidancc1/CVE-2025-24085",0.1751
+CVE-2024-43451,"Microsoft","Windows",Unknown,2024-11-12,2025-01-20,69,2,"RonF98/CVE-2024-43451-POC","https://github.com/RonF98/CVE-2024-43451-POC",0.84108
+CVE-2024-55591,"Fortinet","FortiOS and FortiProxy",Known,2025-01-14,2025-01-18,4,6,"souzatyler/fortios-auth-bypass-check-CVE-2024-55591","https://github.com/souzatyler/fortios-auth-bypass-check-CVE-2024-55591",0.94149
+CVE-2024-49138,"Microsoft","Windows",Unknown,2024-12-10,2025-01-15,36,11,"MrAle98/CVE-2024-49138-POC","https://github.com/MrAle98/CVE-2024-49138-POC",0.26215
+CVE-2025-0282,"Ivanti","Connect Secure, Policy Secure, and ZTA Gateways",Known,2025-01-08,2025-01-09,1,11,"BishopFox/CVE-2025-0282-check","https://github.com/BishopFox/CVE-2025-0282-check",0.99979
+CVE-2024-3393,"Palo Alto Networks","PAN-OS",Unknown,2024-12-30,2025-01-04,5,2,"FelixFoxf/-CVE-2024-3393","https://github.com/FelixFoxf/-CVE-2024-3393",0.28408
+CVE-2024-9680,"Mozilla","Firefox",Known,2024-10-15,2025-01-02,79,2,"PraiseImafidon/Version_Vulnerability_Scanner","https://github.com/PraiseImafidon/Version_Vulnerability_Scanner",0.23184
+CVE-2023-28205,"Apple","Multiple Products",Unknown,2023-04-10,2024-11-30,600,2,"ntfargo/uaf-2023-28205","https://github.com/ntfargo/uaf-2023-28205",0.27076
+CVE-2024-9474,"Palo Alto Networks","PAN-OS",Known,2024-11-18,2024-11-19,1,11,"Chocapikk/CVE-2024-9474","https://github.com/Chocapikk/CVE-2024-9474",0.94701
+CVE-2024-0012,"Palo Alto Networks","PAN-OS",Known,2024-11-18,2024-11-19,1,11,"Sachinart/CVE-2024-0012-POC","https://github.com/Sachinart/CVE-2024-0012-POC",0.99848
+CVE-2024-49039,"Microsoft","Windows",Known,2024-11-12,2024-11-19,7,2,"je5442804/WPTaskScheduler_CVE-2024-49039","https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039",0.14179
+CVE-2024-5910,"Palo Alto Networks","Expedition",Unknown,2024-11-07,2024-11-13,6,2,"zetraxz/CVE-2024-5910","https://github.com/zetraxz/CVE-2024-5910",0.91783
+CVE-2024-8963,"Ivanti","Cloud Services Appliance (CSA)",Unknown,2024-09-19,2024-11-13,55,1,"patfire94/CVE-2024-8963","https://github.com/patfire94/CVE-2024-8963",0.98607
+CVE-2024-47575,"Fortinet","FortiManager",Unknown,2024-10-23,2024-10-29,6,17,"zgimszhd61/CVE-2024-47575-POC","https://github.com/zgimszhd61/CVE-2024-47575-POC",0.94766
+CVE-2024-38178,"Microsoft","Windows",Unknown,2024-08-13,2024-10-24,72,1,"uixss/PoC-CVE-2024-38178","https://github.com/uixss/PoC-CVE-2024-38178",0.4138
+CVE-2024-4947,"Google","Chromium V8",Unknown,2024-05-20,2024-10-24,157,3,"uixss/PoC-CVE-2024-4947","https://github.com/uixss/PoC-CVE-2024-4947",0.15236
+CVE-2021-31755,"Tenda","AC11 Router",Unknown,2021-11-03,2024-10-24,1086,1,"r3s3tt/CVE-2021-31755","https://github.com/r3s3tt/CVE-2021-31755",0.86891
+CVE-2024-23113,"Fortinet","Multiple Products",Unknown,2024-10-09,2024-10-11,2,9,"CheckCve2/CVE-2024-23113","https://github.com/CheckCve2/CVE-2024-23113",0.61725
+CVE-2024-7965,"Google","Chromium V8",Unknown,2024-08-28,2024-09-17,20,3,"bi-zone/CVE-2024-7965","https://github.com/bi-zone/CVE-2024-7965",0.18528
+CVE-2024-8190,"Ivanti","Cloud Services Appliance",Unknown,2024-09-13,2024-09-16,3,2,"horizon3ai/CVE-2024-8190","https://github.com/horizon3ai/CVE-2024-8190",0.88535
+CVE-2024-38080,"Microsoft","Windows ",Unknown,2024-07-09,2024-09-01,54,1,"pwndorei/CVE-2024-38080","https://github.com/pwndorei/CVE-2024-38080",0.07115
+CVE-2024-37085,"VMware","ESXi",Known,2024-07-30,2024-08-02,3,3,"mahmutaymahmutay/CVE-2024-37085","https://github.com/mahmutaymahmutay/CVE-2024-37085",0.2677
+CVE-2024-5274,"Google","Chromium V8",Unknown,2024-05-28,2024-07-10,43,1,"Alchemist3dot14/CVE-2024-5274-Detection","https://github.com/Alchemist3dot14/CVE-2024-5274-Detection",0.07472
+CVE-2024-20399,"Cisco","NX-OS",Unknown,2024-07-02,2024-07-03,1,2,"Blootus/CVE-2024-20399-Cisco-RCE","https://github.com/Blootus/CVE-2024-20399-Cisco-RCE",0.04306
+CVE-2020-11738,"WordPress","Snap Creek Duplicator Plugin",Unknown,2021-11-03,2024-06-15,955,1,"raghu66669999/wordpress-snapcreek","https://github.com/raghu66669999/wordpress-snapcreek",0.97822
+CVE-2024-20359,"Cisco","Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",Unknown,2024-04-24,2024-05-04,10,1,"Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit","https://github.com/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit",0.19434
+CVE-2024-29988,"Microsoft","SmartScreen Prompt",Unknown,2024-04-30,2024-05-03,3,1,"Sploitus/CVE-2024-29988-exploit","https://github.com/Sploitus/CVE-2024-29988-exploit",0.44875
+CVE-2024-20353,"Cisco","Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",Unknown,2024-04-24,2024-05-03,9,1,"Spl0stus/CVE-2024-20353-CiscoASAandFTD","https://github.com/Spl0stus/CVE-2024-20353-CiscoASAandFTD",0.70686
+CVE-2021-22600,"Linux","Kernel",Unknown,2022-04-11,2024-05-03,753,2,"34rthq04k3/CVE-2021-22600","https://github.com/34rthq04k3/CVE-2021-22600",0.06533
+CVE-2020-12641,"Roundcube","Roundcube Webmail",Unknown,2023-06-22,2024-04-09,292,2,"mbadanoiu/CVE-2020-12641","https://github.com/mbadanoiu/CVE-2020-12641",0.84336
+CVE-2023-28229,"Microsoft","Windows CNG Key Isolation Service",Unknown,2023-10-04,2024-03-28,176,1,"pxcs/CrackKeyIso","https://github.com/pxcs/CrackKeyIso",0.01671
+CVE-2024-21412,"Microsoft","Windows",Known,2024-02-13,2024-03-21,37,1,"wr00t/CVE-2024-21412_Water-Hydra","https://github.com/wr00t/CVE-2024-21412_Water-Hydra",0.9941
+CVE-2023-0266,"Linux","Kernel",Unknown,2023-03-30,2024-03-10,346,1,"SeanHeelan/claude_opus_cve_2023_0266","https://github.com/SeanHeelan/claude_opus_cve_2023_0266",0.03702
+CVE-2023-5631,"Roundcube","Webmail",Unknown,2023-10-26,2024-03-08,134,1,"greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-","https://github.com/greandfather/EXPLOIT-Roundcube-vulnerability-POC-CVE-2023-5631-",0.75873
+CVE-2024-21338,"Microsoft","Windows",Known,2024-03-04,2024-03-05,1,9,"gogobuster/CVE-2024-21338-POC","https://github.com/gogobuster/CVE-2024-21338-POC",0.5981
+CVE-2024-0519,"Google","Chromium V8",Unknown,2024-01-17,2024-03-04,47,2,"JohnHormond/CVE-2024-0519-Chrome-exploit","https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit",0.03802
+CVE-2023-6548,"Citrix","NetScaler ADC and NetScaler Gateway",Unknown,2024-01-17,2024-03-04,47,1,"Roonye660/CVE-2023-6548-POC","https://github.com/Roonye660/CVE-2023-6548-POC",0.03191
+CVE-2024-21410,"Microsoft","Exchange Server",Unknown,2024-02-15,2024-03-02,16,2,"FreakyM0ndy/CVE-2024-21410-poc","https://github.com/FreakyM0ndy/CVE-2024-21410-poc",0.12561
+CVE-2024-21762,"Fortinet","FortiOS",Known,2024-02-09,2024-02-28,19,17,"c0d3b3af/CVE-2024-21762-POC","https://github.com/c0d3b3af/CVE-2024-21762-POC",0.83428
+CVE-2020-10189,"Zoho","ManageEngine",Unknown,2021-11-03,2024-02-25,844,1,"BLACKpwn/Remote_Code_Execution-","https://github.com/BLACKpwn/Remote_Code_Execution-",0.99941
+CVE-2024-21893,"Ivanti","Connect Secure, Policy Secure, and Neurons",Known,2024-01-31,2024-02-03,3,2,"h4x0r-dz/CVE-2024-21893.py","https://github.com/h4x0r-dz/CVE-2024-21893.py",0.99999
+CVE-2023-46805,"Ivanti","Connect Secure and Policy Secure",Known,2024-01-10,2024-01-14,4,12,"yoryio/CVE-2023-46805_CVE-2024-21887_Scanner","https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner",0.99986
+CVE-2024-21887,"Ivanti","Connect Secure and Policy Secure",Known,2024-01-10,2024-01-14,4,6,"oways/ivanti-CVE-2024-21887","https://github.com/oways/ivanti-CVE-2024-21887",0.99999
+CVE-2023-26360,"Adobe","ColdFusion",Unknown,2023-03-15,2023-12-26,286,6,"yosef0x01/CVE-2023-26360","https://github.com/yosef0x01/CVE-2023-26360",0.97339
+CVE-2023-20273,"Cisco","Cisco IOS XE Web UI",Unknown,2023-10-23,2023-12-09,47,1,"smokeintheshell/CVE-2023-20273","https://github.com/smokeintheshell/CVE-2023-20273",0.89634
+CVE-2023-36025,"Microsoft","Windows",Unknown,2023-11-14,2023-11-17,3,3,"ka7ana/CVE-2023-36025","https://github.com/ka7ana/CVE-2023-36025",0.88085
+CVE-2023-47246,"SysAid","SysAid Server",Known,2023-11-13,2023-11-17,4,3,"W01fh4cker/CVE-2023-47246-EXP","https://github.com/W01fh4cker/CVE-2023-47246-EXP",0.98851
+CVE-2021-44026,"Roundcube","Roundcube Webmail",Unknown,2023-06-22,2023-11-14,145,2,"pentesttoolscom/roundcube-cve-2021-44026","https://github.com/pentesttoolscom/roundcube-cve-2021-44026",0.69882
+CVE-2023-46747,"F5","BIG-IP Configuration Utility",Known,2023-10-31,2023-11-01,1,11,"bijaysenihang/CVE-2023-46747-Mass-RCE","https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE",0.96515
+CVE-2023-41064,"Apple","iOS, iPadOS, and macOS",Unknown,2023-09-11,2023-10-30,49,2,"MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064","https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064",0.53403
+CVE-2023-4966,"Citrix","NetScaler ADC and NetScaler Gateway",Known,2023-10-18,2023-10-24,6,14,"Chocapikk/CVE-2023-4966","https://github.com/Chocapikk/CVE-2023-4966",0.99999
+CVE-2023-20198,"Cisco","IOS XE Web UI",Unknown,2023-10-16,2023-10-17,1,34,"Atea-Redteam/CVE-2023-20198","https://github.com/Atea-Redteam/CVE-2023-20198",0.99571
+CVE-2023-41993,"Apple","Multiple Products",Unknown,2023-09-25,2023-10-16,21,3,"hrtowii/cve-2023-41993-test","https://github.com/hrtowii/cve-2023-41993-test",0.24349
+CVE-2023-36802,"Microsoft","Streaming Service Proxy",Unknown,2023-09-12,2023-10-09,27,6,"chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802","https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",0.27909
+CVE-2023-22515,"Atlassian","Confluence Data Center and Server",Known,2023-10-05,2023-10-07,2,29,"ErikWynter/CVE-2023-22515-Scan","https://github.com/ErikWynter/CVE-2023-22515-Scan",0.99156
+CVE-2023-5217,"Google","Chromium libvpx",Unknown,2023-10-02,2023-10-06,4,1,"wrv/cve-2023-5217-poc","https://github.com/wrv/cve-2023-5217-poc",0.49013
+CVE-2020-5847,"Unraid","Unraid",Unknown,2021-11-03,2023-09-18,684,1,"1Gould/CVE-2020-5847-exploit","https://github.com/1Gould/CVE-2020-5847-exploit",0.95844
+CVE-2023-4863,"Google","Chromium WebP",Unknown,2023-09-13,2023-09-14,1,10,"suhipek/CVE-2023-4863","https://github.com/suhipek/CVE-2023-4863",0.99979
+CVE-2010-0232,"Microsoft","Windows",Unknown,2022-03-03,2023-09-11,557,1,"azorfus/CVE-2010-0232","https://github.com/azorfus/CVE-2010-0232",0.28735
+CVE-2023-1389,"TP-Link","Archer AX21",Unknown,2023-05-01,2023-09-09,131,3,"Terminal1337/CVE-2023-1389","https://github.com/Terminal1337/CVE-2023-1389",0.99999
+CVE-2023-38035,"Ivanti","Sentry",Known,2023-08-22,2023-08-23,1,3,"horizon3ai/CVE-2023-38035","https://github.com/horizon3ai/CVE-2023-38035",0.9995
+CVE-2023-36874,"Microsoft","Windows",Unknown,2023-07-11,2023-08-20,40,5,"d0rb/CVE-2023-36874","https://github.com/d0rb/CVE-2023-36874",0.43409
+CVE-2013-2251,"Apache","Struts",Unknown,2022-03-25,2023-08-04,497,1,"nth347/CVE-2013-2251","https://github.com/nth347/CVE-2013-2251",0.99998
+CVE-2023-35078,"Ivanti","Endpoint Manager Mobile (EPMM)",Known,2023-07-25,2023-07-29,4,9,"vchan-in/CVE-2023-35078-Exploit-POC","https://github.com/vchan-in/CVE-2023-35078-Exploit-POC",0.99999
+CVE-2023-29336,"Microsoft","Win32k",Unknown,2023-05-09,2023-07-27,79,1,"ayhan-dev/p0ropc","https://github.com/ayhan-dev/p0ropc",0.40919
+CVE-2020-8644,"PlaySMS","PlaySMS",Unknown,2021-11-03,2023-07-26,630,2,"hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp","https://github.com/hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp",0.86689
+CVE-2023-3519,"Citrix","NetScaler ADC and NetScaler Gateway",Known,2023-07-19,2023-07-20,1,15,"telekom-security/cve-2023-3519-citrix-scanner","https://github.com/telekom-security/cve-2023-3519-citrix-scanner",0.99749
+CVE-2022-4262,"Google","Chromium V8",Unknown,2022-12-05,2023-07-13,220,2,"bjrjk/CVE-2022-4262","https://github.com/bjrjk/CVE-2022-4262",0.15983
+CVE-2023-28252,"Microsoft","Windows",Known,2023-04-11,2023-07-12,92,7,"Malwareman007/CVE-2023-28252","https://github.com/Malwareman007/CVE-2023-28252",0.48973
+CVE-2023-20963,"Android","Framework",Unknown,2023-04-13,2023-06-12,60,2,"Chal13W1zz/BadParcel","https://github.com/Chal13W1zz/BadParcel",0.01465
+CVE-2023-2868,"Barracuda Networks","Email Security Gateway (ESG) Appliance",Unknown,2023-05-26,2023-06-09,14,2,"T13nn3s/CVE-2023-2868","https://github.com/T13nn3s/CVE-2023-2868",0.87691
+CVE-2023-34362,"Progress","MOVEit Transfer",Known,2023-06-02,2023-06-06,4,17,"deepinstinct/MOVEit_CVE-2023-34362_IOCs","https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs",0.99934
+CVE-2014-1812,"Microsoft","Windows",Known,2021-11-03,2023-05-23,566,1,"mauricelambert/gpp-encrypt","https://github.com/mauricelambert/gpp-encrypt",0.64876
+CVE-2023-28206,"Apple","iOS, iPadOS, and macOS",Unknown,2023-04-10,2023-05-15,35,1,"acceleratortroll/acceleratortroll","https://github.com/acceleratortroll/acceleratortroll",0.23215
+CVE-2023-21823,"Microsoft","Windows",Unknown,2023-02-14,2023-04-20,65,1,"Elizarfish/CVE-2023-21823","https://github.com/Elizarfish/CVE-2023-21823",0.05563
+CVE-2022-38181,"Arm","Mali Graphics Processing Unit (GPU)",Unknown,2023-03-30,2023-04-13,14,5,"Pro-me3us/CVE_2022_38181_Raven","https://github.com/Pro-me3us/CVE_2022_38181_Raven",0.13556
+CVE-2023-23397,"Microsoft","Office",Unknown,2023-03-14,2023-03-15,1,25,"sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY","https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",0.97159
+CVE-2022-37969,"Microsoft","Windows",Unknown,2022-09-14,2023-03-10,177,3,"fortra/CVE-2022-37969","https://github.com/fortra/CVE-2022-37969",0.28275
+CVE-2022-21587,"Oracle","E-Business Suite",Known,2023-02-02,2023-02-06,4,6,"hieuminhnv/CVE-2022-21587-POC","https://github.com/hieuminhnv/CVE-2022-21587-POC",0.98342
+CVE-2018-0171,"Cisco","IOS and IOS XE",Unknown,2021-11-03,2023-02-01,455,1,"AlrikRr/Cisco-Smart-Exploit","https://github.com/AlrikRr/Cisco-Smart-Exploit",0.99479
+CVE-2022-27518,"Citrix","Application Delivery Controller (ADC) and Gateway",Unknown,2022-12-13,2023-01-17,35,1,"dolby360/CVE-2022-27518_POC","https://github.com/dolby360/CVE-2022-27518_POC",0.06683
+CVE-2018-19321,"GIGABYTE","Multiple Products",Known,2022-10-24,2023-01-07,75,1,"nanabingies/CVE-2018-19321","https://github.com/nanabingies/CVE-2018-19321",0.03671
+CVE-2021-38003,"Google","Chromium V8",Unknown,2021-11-03,2023-01-07,430,2,"SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003","https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003",0.38573
+CVE-2022-42475,"Fortinet","FortiOS",Known,2022-12-13,2022-12-24,11,7,"gilng3r/CVE-2022-42475-RCE","https://github.com/gilng3r/CVE-2022-42475-RCE",0.99474
+CVE-2020-16846,"SaltStack","Salt",Unknown,2021-11-03,2022-12-12,404,1,"hamza-boudouche/projet-secu","https://github.com/hamza-boudouche/projet-secu",0.99585
+CVE-2022-41049,"Microsoft","Windows",Unknown,2022-11-14,2022-11-30,16,1,"NathanScottGithub/CVE-2022-41049-POC","https://github.com/NathanScottGithub/CVE-2022-41049-POC",0.02491
+CVE-2022-41040,"Microsoft","Exchange Server",Known,2022-09-30,2022-10-02,2,8,"numanturle/CVE-2022-41040","https://github.com/numanturle/CVE-2022-41040",0.99956
+CVE-2022-3236,"Sophos","Firewall",Unknown,2022-09-23,2022-09-28,5,9,"Xu0Tex1/CVE-2022-3236","https://github.com/Xu0Tex1/CVE-2022-3236",0.98905
+CVE-2022-32917,"Apple","iOS, iPadOS, and macOS",Unknown,2022-09-14,2022-09-16,2,1,"Administrative2022/CVE-2022-32917-POC","https://github.com/Administrative2022/CVE-2022-32917-POC",0.05603
+CVE-2021-38163,"SAP","NetWeaver",Unknown,2022-06-09,2022-09-10,93,2,"core1impact/CVE-2021-38163","https://github.com/core1impact/CVE-2021-38163",0.36018
+CVE-2013-3900,"Microsoft","WinVerifyTrust function",Unknown,2022-01-10,2022-09-06,239,10,"snoopopsec/vulnerability-CVE-2013-3900","https://github.com/snoopopsec/vulnerability-CVE-2013-3900",0.44647
+CVE-2021-31956,"Microsoft","Windows",Unknown,2021-11-03,2022-09-02,303,3,"Y3A/CVE-2021-31956","https://github.com/Y3A/CVE-2021-31956",0.22273
+CVE-2022-37042,"Synacor","Zimbra Collaboration Suite (ZCS)",Known,2022-08-11,2022-08-25,14,3,"aels/CVE-2022-37042","https://github.com/aels/CVE-2022-37042",0.91893
+CVE-2018-0798,"Microsoft","Office",Unknown,2021-11-03,2022-08-19,289,1,"Sunqiz/CVE-2018-0798-reproduction","https://github.com/Sunqiz/CVE-2018-0798-reproduction",0.95121
+CVE-2010-3333,"Microsoft","Office",Unknown,2022-03-03,2022-08-15,165,2,"Sunqiz/CVE-2010-3333-reproduction","https://github.com/Sunqiz/CVE-2010-3333-reproduction",0.89497
+CVE-2022-27925,"Synacor","Zimbra Collaboration Suite (ZCS)",Known,2022-08-11,2022-08-12,1,9,"vnhacker1337/CVE-2022-27925-PoC","https://github.com/vnhacker1337/CVE-2022-27925-PoC",0.98676
+CVE-2020-2509,"QNAP","QNAP Network-Attached Storage (NAS)",Unknown,2022-04-11,2022-07-28,108,1,"jbaines-r7/overkill","https://github.com/jbaines-r7/overkill",0.33987
+CVE-2021-36955,"Microsoft","Windows",Known,2021-11-03,2022-07-18,257,1,"JiaJinRong12138/CVE-2021-36955-EXP","https://github.com/JiaJinRong12138/CVE-2021-36955-EXP",0.04037
+CVE-2022-22620,"Apple","iOS, iPadOS, and macOS",Unknown,2022-02-11,2022-06-15,124,4,"kmeps4/CVE-2022-22620","https://github.com/kmeps4/CVE-2022-22620",0.16342
+CVE-2022-1040,"Sophos","Firewall",Unknown,2022-03-31,2022-05-05,35,12,"cve-hunter/CVE-2022-1040-sophos-rce","https://github.com/cve-hunter/CVE-2022-1040-sophos-rce",0.99796
+CVE-2022-26318,"WatchGuard","Firebox and XTM Appliances",Unknown,2022-03-25,2022-04-18,24,2,"h3llk4t3/Watchguard-RCE-POC-CVE-2022-26318","https://github.com/h3llk4t3/Watchguard-RCE-POC-CVE-2022-26318",0.78157
+CVE-2022-1096,"Google","Chromium V8",Unknown,2022-03-28,2022-03-30,2,1,"Maverick-cmd/Chrome-and-Edge-Version-Dumper","https://github.com/Maverick-cmd/Chrome-and-Edge-Version-Dumper",0.24205
+CVE-2021-21193,"Google","Chromium Blink",Unknown,2021-11-03,2022-03-28,145,1,"mehrzad1994/CVE-2021-21193","https://github.com/mehrzad1994/CVE-2021-21193",0.0987
+CVE-2022-24086,"Adobe","Commerce and Magento Open Source",Unknown,2022-02-15,2022-02-20,5,10,"Mr-xn/CVE-2022-24086","https://github.com/Mr-xn/CVE-2022-24086",0.99199
+CVE-2021-37975,"Google","Chromium V8",Unknown,2021-11-03,2022-01-10,68,1,"ssaroussi/CVE-2021-37975","https://github.com/ssaroussi/CVE-2021-37975",0.34887
+CVE-2012-0158,"Microsoft","MSCOMCTL.OCX",Unknown,2021-11-03,2022-01-04,62,2,"RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc","https://github.com/RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc",0.99976
+CVE-2020-14871,"Oracle","Solaris and Zettabyte File System (ZFS)",Unknown,2021-11-03,2021-12-26,53,2,"robidev/CVE-2020-14871-Exploit","https://github.com/robidev/CVE-2020-14871-Exploit",0.80157
+CVE-2021-44077,"Zoho","ManageEngine ServiceDesk Plus (SDP) / SupportCenter Plus",Unknown,2021-12-01,2021-12-09,8,2,"horizon3ai/CVE-2021-44077","https://github.com/horizon3ai/CVE-2021-44077",0.93298
+CVE-2021-21224,"Google","Chromium V8",Unknown,2021-11-03,2021-11-30,27,1,"lnfernal/CVE-2021-21224","https://github.com/lnfernal/CVE-2021-21224",0.84173
+CVE-2021-42321,"Microsoft","Exchange",Known,2021-11-17,2021-11-23,6,3,"DarkSprings/CVE-2021-42321","https://github.com/DarkSprings/CVE-2021-42321",0.91737
+CVE-2021-30657,"Apple","macOS",Unknown,2021-11-03,2021-11-07,4,1,"shubham0d/CVE-2021-30657","https://github.com/shubham0d/CVE-2021-30657",0.68531
